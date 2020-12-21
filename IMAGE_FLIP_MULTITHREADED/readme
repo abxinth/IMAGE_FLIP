@@ -1,0 +1,2 @@
+Multithreaded cpu implementation of image flip
+!!only use 24 bit bitmap images
